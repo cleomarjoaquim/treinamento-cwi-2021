@@ -25,7 +25,7 @@ public class LoginPage extends LoginPageElementMapper {
     }
 
     public void newEmail_create(){
-        email_create.sendKeys("cleojoaquim@gmail.com");
+        email_create.sendKeys("cleojoaquim10@gmail.com");
     }
     public void clickSubmitCreate(){
         SubmitCreate.click();
