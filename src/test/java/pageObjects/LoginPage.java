@@ -12,11 +12,11 @@ public class LoginPage extends LoginPageElementMapper {
 
 
     public void fillEmail(){
-        email.sendKeys("rrsetcwi+autopractice@gmail.com");
+        email.sendKeys("cleoj@gmail.com");
 
     }
     public void fillPasswd(){
-       passwd.sendKeys("teste123");
+       passwd.sendKeys("mechamaCWI");
 
     }
     public void clickBtnSubmitLogin(){
@@ -25,7 +25,7 @@ public class LoginPage extends LoginPageElementMapper {
     }
 
     public void newEmail_create(){
-        email_create.sendKeys("cleojoaquim10@gmail.com");
+        email_create.sendKeys("cleouj@gmail.com");
     }
     public void clickSubmitCreate(){
         SubmitCreate.click();
